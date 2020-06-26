@@ -1,5 +1,5 @@
 # hello-world
-Just the first steps.
+Just the first steps. Nur die ersten Schritte. 
 
 Who started the tradition to use "Hello World" at the beginning?
 
